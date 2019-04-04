@@ -8,3 +8,10 @@ Make-A-Meal is an application that students can use to create an account for the
 <blockquote>
 "give a man a fish and he'll eat for a day, but give a man a George Forman Grill and he'll survive his computer science degree"
   </blockquote>
+  
+### Our Team
+<img src="https://avatars1.githubusercontent.com/u/33167577?s=460&v=4"/> Marty Apilado is our workhorse behind our creative design process. He is an apspiring software developer who hopes to make an impact.
+
+<img src="https://avatars0.githubusercontent.com/u/19947797?s=460&v=4"/> Anthony Gasbarro, a graduate EE student, is the leader of this team. He is going to do great things.
+
+<img src="https://avatars2.githubusercontent.com/u/21329545?s=460&v=4"/> Davin Takahashi is the assistant developer to this project. He is trying to pursue one of his diverse niches.
