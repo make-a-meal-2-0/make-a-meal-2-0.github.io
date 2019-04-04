@@ -14,8 +14,10 @@ Make-A-Meal is an application that students can use to create an account for the
   <tr>
     <td>
 <img height="200" width="200" src="https://avatars1.githubusercontent.com/u/33167577?s=460&v=4"/>
-Marty Apilado is our workhorse behind our creative design process. He is an apspiring software developer who hopes to make an impact.
       </td>
+    <td>
+      Marty Apilado is our workhorse behind our creative design process. He is an apspiring software developer who hopes to make an impact.
+    </td>
     </tr>
 </table>
 
