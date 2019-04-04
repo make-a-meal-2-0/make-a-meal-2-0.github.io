@@ -24,7 +24,7 @@ Make-A-Meal is an application that students can use to create an account for the
 <img src="https://avatars0.githubusercontent.com/u/19947797?s=460&v=4"/> 
       </td>
     <td>
-      <strong>Anthony Gasbarro</strong>, a graduate EE student, is the leader of this team. He is going to do great things.
+      <strong>Anthony Gasbarro</strong>, a graduate EE student in the computer track and a former Nuclear Reactor Operator for the Navy.
     </td>
     </tr>
     <tr>
