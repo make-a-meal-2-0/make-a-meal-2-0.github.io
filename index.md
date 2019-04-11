@@ -1,5 +1,8 @@
+- [Organization Page Repo](https://github.com/make-a-meal-2-0)
+- [Make-A-Meal Application Repo](https://github.com/mam2)
+- [Application Project Page](https://github.com/make-a-meal-2-0/mam2/projects/1)
+- [Make-A-Meal Application Page](http://makeameal2.meteorapp.com/#/)
 
-Every single day, thousands of college students are starving in dorm rooms while food sits available nearby. Recent studies have shown that the single largest factor causing this torturous state of affairs is the lack of decision-making capability on the topic of what to eat. The large amount of options for food can be overwhelming and can actually cause you to be less able to make a selection the more options there are, a paradox referred to as [The Paradox of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice). This is where Make-A-Meal comes in. We want to create a safety net ensuring these poor souls are never plagued with indecision. 
 
 ## The Idea
 Make-A-Meal is an application that students can use to create an account for their personal preferences which will save information about the user such as dietary restrictions, local food availability, and taste preferences. The application ask the user upon making an account what types of cooking tools are available (George Foreman Grill, Microwave, Toaster Oven, etc.) and then will suggest different different recipes to the user based on their preferences, restrictions, and tools available. Extra information will be made available to the user in the form of cost per serving, number of servings per recipe, and time to prepare the recipe. The goal of the application is to help students feed themself through the gentle guidance toward the direction of edible and easily attainable food. Through the widespread use of this application we believe our foundation can solve collegiate hunger and spread awareness of the ability to cook and feed yourself. 
@@ -8,6 +11,10 @@ Make-A-Meal is an application that students can use to create an account for the
 <blockquote>
 "give a man a fish and he'll eat for a day, but give a man a George Forman Grill and he'll survive his computer science degree"
   </blockquote>
+  
+### User Guide
+
+Landing Page
   
 ### Our Team
 <table>
