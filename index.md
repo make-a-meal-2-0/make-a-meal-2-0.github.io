@@ -1,6 +1,6 @@
 - [Organization Page Repo](https://github.com/make-a-meal-2-0)
-- [Make-A-Meal Application Repo](https://github.com/mam2)
-- [Application Project Page](https://github.com/make-a-meal-2-0/mam2/projects/1)
+- [Make-A-Meal Application Repository](https://github.com/mam2)
+- [Repository Project Page](https://github.com/make-a-meal-2-0/mam2/projects/1)
 - [Make-A-Meal Application Page](http://makeameal2.meteorapp.com/#/)
 
 
