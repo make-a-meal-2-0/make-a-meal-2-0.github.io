@@ -1,4 +1,4 @@
-# Make-a-Meal-2.0
+
 Every single day, thousands of college students are starving in dorm rooms while food sits available nearby. Recent studies have shown that the single largest factor causing this torturous state of affairs is the lack of decision-making capability on the topic of what to eat. The large amount of options for food can be overwhelming and can actually cause you to be less able to make a selection the more options there are, a paradox referred to as [The Paradox of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice). This is where Make-A-Meal comes in. We want to create a safety net ensuring these poor souls are never plagued with indecision. 
 
 ## The Idea
