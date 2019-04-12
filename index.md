@@ -16,7 +16,19 @@ Make-A-Meal is an application that students can use to create an account for the
 
 Landing Page
 <img src="/images/Actual Landing Page.png">
-  
+My Recipe Page
+<img src="/images/My Recipe Page.png">
+Vendors Page
+<img src="/images/Vendors Page.png">
+
+### Installation Guide
+First, install Meteor.
+Create a working Github Repository.
+Download a zip file of Make-A-Meal-2.0.
+Copy the app, config repositories, and .gitignore file (optional) into your repo.
+cd into the local app directory and run the following command to install required libraries: meteor npm install
+Now run the app with: meteor npm run start
+
 ### Our Team
 <table>
   <tr>
