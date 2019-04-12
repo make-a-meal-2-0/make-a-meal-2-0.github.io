@@ -14,16 +14,16 @@ Make-A-Meal is an application that students can use to create an account for the
   
 ### User Guide
 
-Landing Page
-<img src="/images/Actual Landing Page.png">
-Add Recipe Page
-<img src="/images/Add Recipe Page.png">
-My Recipe Page
-<img src="/images/My Recipe Page.png">
-Recipes Page
-<img src="/images/Recipes.png">
-Vendors Page
-<img src="/images/Vendors Page.png">
+Landing Page (http://makeameal2.meteorapp.com/#/)
+<img src="/images/Actual Landing Page.png"> <br/>
+Add Recipe Page (http://makeameal2.meteorapp.com/#/add)
+<img src="/images/Add Recipe Page.png"> <br/>
+My Recipe Page (http://makeameal2.meteorapp.com/#/list)
+<img src="/images/My Recipe Page.png"> <br/>
+Recipes Page (http://makeameal2.meteorapp.com/#/searchR)
+<img src="/images/Recipes Page.png"> <br/>
+Vendors Page (http://makeameal2.meteorapp.com/#/searchV)
+<img src="/images/Vendors Page.png"> <br/>
 
 ### Installation Guide
 First, install Meteor.  
