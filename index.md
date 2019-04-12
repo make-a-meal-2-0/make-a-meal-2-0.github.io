@@ -14,31 +14,31 @@ Make-A-Meal is an application that students can use to create an account for the
   
 ### User Guide
 
-<b> Landing Page </b> (http://makeameal2.meteorapp.com/#/)
+<b> Landing Page </b> (http://makeameal2.meteorapp.com/#/) <br/>
 Our home page.
 <img src="/images/Actual Landing Page.png"> 
 <br/>
 <br/>
 <br/>
-<b> Add Recipe Page </b> (http://makeameal2.meteorapp.com/#/add)
+<b> Add Recipe Page </b> (http://makeameal2.meteorapp.com/#/add) <br/>
 Our page which allows users to input their own recipes to the collection.
 <img src="/images/Add Recipe Page.png"> 
 <br/>
 <br/>
 <br/>
-<b> My Recipe Page </b> (http://makeameal2.meteorapp.com/#/list)
+<b> My Recipe Page </b> (http://makeameal2.meteorapp.com/#/list) <br/>
 Our page that shows a list of recipes the user has inputted, or their favorites/saved.
 <img src="/images/My Recipe Page.png"> 
 <br/>
 <br/>
 <br/>
-<b>Recipes Page </b> (http://makeameal2.meteorapp.com/#/searchR)
+<b>Recipes Page </b> (http://makeameal2.meteorapp.com/#/searchR) <br/>
 This shows all the recipes in the collection.
 <img src="/images/Recipes Page.png"> <br/>
 <br/>
 <br/>
 <br/>
-<b>Vendors Page </b> (http://makeameal2.meteorapp.com/#/searchV)
+<b>Vendors Page </b> (http://makeameal2.meteorapp.com/#/searchV) <br/>
 Showcases all nearby vendors in a 1-mile radius.
 <img src="/images/Vendors Page.png"> 
 <br/>
