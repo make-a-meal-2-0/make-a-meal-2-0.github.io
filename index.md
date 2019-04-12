@@ -16,8 +16,12 @@ Make-A-Meal is an application that students can use to create an account for the
 
 Landing Page
 <img src="/images/Actual Landing Page.png">
+Add Recipe Page
+<img src="/images/Add Recipe Page.png">
 My Recipe Page
 <img src="/images/My Recipe Page.png">
+Recipes Page
+<img src="/images/Recipes.png">
 Vendors Page
 <img src="/images/Vendors Page.png">
 
