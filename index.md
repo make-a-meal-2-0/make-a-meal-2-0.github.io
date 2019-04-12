@@ -50,7 +50,8 @@ Create a working Github Repository.
 Download a zip file of Make-A-Meal-2.0.  
 Copy the app, config repositories, and .gitignore file (optional) into your repo.  
 cd into the local app directory and run the following command to install required libraries: meteor npm install.  
-Now run the app with: meteor npm run start
+Now run the app with: meteor npm run start.  
+Sign up/Log in to access all features.
 
 ### Our Team
 <table>
