@@ -9,7 +9,7 @@ Make-A-Meal is an application that students can use to create an account for the
 
 ### There is an ancient proverb that says: 
 <blockquote>
-"give a man a fish and he'll eat for a day, but give a man a George Forman Grill and he'll survive his computer science degree"
+"give a man a fish and he'll eat for a day, but give a man a George Foreman Grill and he'll survive his computer science degree"
   </blockquote>
   
 ### User Guide
