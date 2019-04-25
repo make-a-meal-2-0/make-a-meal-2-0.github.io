@@ -5,10 +5,10 @@
 
 
 ## Overview
-[Make-A-Meal Application Repository](https://github.com/make-a-meal-2-0/mam2) . 
-[Deployment](http://makeameal2.meteorapp.com/#/) . 
-[M2 Project Board](https://github.com/make-a-meal-2-0/mam2/projects/1) . 
-[M3 Project Board](https://github.com/make-a-meal-2-0/mam2/projects/4) . 
+[Make-A-Meal Application Repository](https://github.com/make-a-meal-2-0/mam2) <br/>
+[Deployment](http://makeameal2.meteorapp.com/#/) <br/>
+[M2 Project Board](https://github.com/make-a-meal-2-0/mam2/projects/1) <br/>
+[M3 Project Board](https://github.com/make-a-meal-2-0/mam2/projects/4) <br/>
 
 Make-A-Meal is an application that students can use to create an account for their personal preferences which will save information about the user such as dietary restrictions, local food availability, and taste preferences. The application ask the user upon making an account what types of cooking tools are available (George Foreman Grill, Microwave, Toaster Oven, etc.) and then will suggest different different recipes to the user based on their preferences, restrictions, and tools available. Extra information will be made available to the user in the form of cost per serving, number of servings per recipe, and time to prepare the recipe. The goal of the application is to help students feed themself through the gentle guidance toward the direction of edible and easily attainable food. Through the widespread use of this application we believe our foundation can solve collegiate hunger and spread awareness of the ability to cook and feed yourself. 
 
