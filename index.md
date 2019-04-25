@@ -14,7 +14,7 @@ Make-A-Meal is an application that students can use to create an account for the
   
 ### User Guide
 
-<b> Landing Page </b> (http://makeameal2.meteorapp.com/#/) <br/>
+<b> [Landing Page] </b> (http://makeameal2.meteorapp.com/#/) <br/>
 Our home page.
 <img src="/images/Actual Landing Page.png"> 
 <br/>
