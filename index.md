@@ -63,7 +63,7 @@ Sign up/Log in to access all features.
 ### Developer Guide
 Follow the installation guide, as shown above.  
 To modify the fields & features of recipes and vendors, modify the app/imports/api subdirectories.  
-To change the permissions accessing recipes and vendors for each account, modify the app/imports/startup/server subdirectories
+To change the permissions accessing recipes and vendors for each account, modify the app/imports/startup/server subdirectories. 
 To enhance Recipes themselves, modify the app/imports/ui/components/Recipe.jsx file. Check out https://react.semantic-ui.com for additional features. <br/>
 To test default accounts and others items in Collections, modify the app/config/settings.development.json file. 
 
