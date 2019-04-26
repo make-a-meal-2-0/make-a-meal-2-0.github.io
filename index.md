@@ -27,25 +27,25 @@ Our home page.
 <br/>
 [Add Recipe Page](http://makeameal2.meteorapp.com/#/add) <br/>
 Our page which allows users to input their own recipes to the collection.
-<img src="/images/Add Recipe Page.png"> 
+<img src="/images/addRecipev2.png"> 
 <br/>
 <br/>
 <br/>
 [My Recipe Page](http://makeameal2.meteorapp.com/#/list) <br/>
 Our page that shows a list of recipes the user has inputted, or their favorites/saved.
-<img src="/images/My Recipe Page.png"> 
+<img src="/images/myRecipev2.png"> 
 <br/>
 <br/>
 <br/>
 [Recipes Page](http://makeameal2.meteorapp.com/#/searchR) <br/>
 This shows all the recipes in the collection.
-<img src="/images/Recipes Page.png"> <br/>
+<img src="/images/recipesv2.png"> <br/>
 <br/>
 <br/>
 <br/>
 [Vendors Page](http://makeameal2.meteorapp.com/#/searchV) <br/>
 Showcases all nearby vendors in a 1-mile radius.
-<img src="/images/Vendors Page.png"> 
+<img src="/images/vendorsv2.png"> 
 <br/>
 <br/>
 <br/>
