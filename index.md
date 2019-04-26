@@ -12,12 +12,12 @@
 
 Make-A-Meal is an application that students can use to create an account for their personal preferences which will save information about the user such as dietary restrictions, local food availability, and taste preferences. The application ask the user upon making an account what types of cooking tools are available (George Foreman Grill, Microwave, Toaster Oven, etc.) and then will suggest different different recipes to the user based on their preferences, restrictions, and tools available. Extra information will be made available to the user in the form of cost per serving, number of servings per recipe, and time to prepare the recipe. The goal of the application is to help students feed themself through the gentle guidance toward the direction of edible and easily attainable food. Through the widespread use of this application we believe our foundation can solve collegiate hunger and spread awareness of the ability to cook and feed yourself. 
 
-## There is an ancient proverb that says: 
+### There is an ancient proverb that says: 
 <blockquote>
 "give a man a fish and he'll eat for a day, but give a man a George Foreman Grill and he'll survive his computer science degree"
   </blockquote>
   
-### User Guide
+# User Guide
 
 [Landing Page](https://makeameal2.meteorapp.com/#/) <br/>
 Our home page.
@@ -49,7 +49,7 @@ Showcases all nearby vendors in a 1-mile radius.
 <br/>
 <br/>
 <br/>
-### Installation Guide
+# Installation Guide
 First, install Meteor.  
 Create a working Github Repository.  
 Download a zip file of Make-A-Meal-2.0.  
@@ -60,7 +60,7 @@ Sign up/Log in to access all features.
 <br/>
 <br/>
 <br/>
-### Developer Guide
+# Developer Guide
 Follow the installation guide, as shown above.  
 To modify the fields & features of recipes and vendors, modify the app/imports/api subdirectories.  
 To change the permissions accessing recipes and vendors for each account, modify the app/imports/startup/server subdirectories.  
