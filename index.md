@@ -33,7 +33,7 @@ Our page which allows users to input their own recipes to the collection.
 <br/>
 [My Recipe Page](http://makeameal2.meteorapp.com/#/list) <br/>
 Our page that shows a list of recipes the user has inputted, or their favorites/saved.
-<img src="/images/myRecipev2.png"> 
+<img src="/images/myRecipesv2.png"> 
 <br/>
 <br/>
 <br/>
