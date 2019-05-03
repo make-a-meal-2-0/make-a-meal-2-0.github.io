@@ -49,6 +49,11 @@ Showcases all nearby vendors in a 1-mile radius.
 <br/>
 <br/>
 <br/>
+# Community Feeback
+On average, our user testers were supportive of the main goals of our application and our general layout. However, there were criticisms of our functionality, namely in the lack of recipes and vendors. There was also some concern for the UI: empty space on the bottom of the landing page, reuse of names, confusion as to the meaning of fields, unclear alerts, and more. Better naming conventions, further increase in items in our database, and more interactive features in the future should address these issues.
+<br/>
+<br/>
+<br/>
 # Installation Guide
 First, install Meteor.  
 Create a working Github Repository.  
