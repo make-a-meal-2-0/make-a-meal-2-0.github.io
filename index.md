@@ -55,16 +55,19 @@ Download a zip file of *Make-A-Meal-2.0*.
 Copy the app, config repositories, and *.gitignore file* (optional) into your repo.  
 cd into the local app directory and run the following command to install required libraries: `meteor npm install`.  
 Now run the app with: `meteor npm run start`.  
-Sign up/Log in to access all features.
+Sign up/Log in to access all features.  
+If a restart of the database is required, `meteor reset` in the *app* directory.  
 <br/>
 <br/>
 <br/>
 # Developer Guide
 Follow the installation guide, as shown above.  
 To modify the fields & features of recipes and vendors, modify the `app/imports/api subdirectories`.  
-To change the permissions accessing recipes and vendors for each account, modify the `app/imports/startup/server` subdirectories.  
-To enhance Recipes themselves, modify the `app/imports/ui/components/Recipe.jsx file`. Check out https://react.semantic-ui.com for additional features. <br/>
-To test default accounts and others items in Collections, modify the `app/config/settings.development.json` file. 
+To change the aesthetics of cards and ingredient components, modify the `app/client/style.css` and `app/imports/ui/components/Ingredient.jsx` files.  
+To change the permissions accessing recipes and vendors for each account, modify the `app/imports/startup/server` subdirectories.
+To enhance Recipes themselves, modify the `app/imports/ui/components/Recipe.jsx` file. Check out https://react.semantic-ui.com for additional features. <br/>
+To create different filtering schemes and/or implementing searching features, modify the `app/imports/ui/pages/ListRecipes.jsx` file.  
+To test default accounts and others items in Collections, modify the `app/config/settings.development.json` file.  
 
 
 ### Our Team
