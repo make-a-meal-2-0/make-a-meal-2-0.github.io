@@ -82,7 +82,7 @@ To test default accounts and others items in Collections, modify the app/config/
 <img src="https://avatars0.githubusercontent.com/u/19947797?s=460&v=4"/> 
       </td>
     <td>
-      Anthony Gasbarro](https://agasbarro36.github.io/), a graduate EE student in the computer track and a former Nuclear Reactor Operator for the Navy.
+      [Anthony Gasbarro](https://agasbarro36.github.io/), a graduate EE student in the computer track and a former Nuclear Reactor Operator for the Navy.
     </td>
     </tr>
     <tr>
