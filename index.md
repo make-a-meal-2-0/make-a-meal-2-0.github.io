@@ -90,7 +90,7 @@ To test default accounts and others items in Collections, modify the app/config/
 <img src="https://avatars2.githubusercontent.com/u/21329545?s=460&v=4"/> 
       </td>
     <td>
-      Davin Takahashi(https://dvntaka.github.io/) is a  developer for this project. He is trying to pursue one of his diverse niches as an undergraduate CS major. 
+      <strong> Davin Takahashi <strong> is a  developer for this project. He is trying to pursue one of his diverse niches as an undergraduate CS major. 
     </td>
     </tr>
 </table>
