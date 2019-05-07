@@ -51,20 +51,20 @@ On average, our user testers were supportive of the main goals of our applicatio
 # Installation Guide
 First, install Meteor.  
 Create a working Github Repository.  
-Download a zip file of Make-A-Meal-2.0.  
-Copy the app, config repositories, and .gitignore file (optional) into your repo.  
-cd into the local app directory and run the following command to install required libraries: meteor npm install.  
-Now run the app with: meteor npm run start.  
+Download a zip file of *Make-A-Meal-2.0*.  
+Copy the app, config repositories, and *.gitignore file* (optional) into your repo.  
+cd into the local app directory and run the following command to install required libraries: `meteor npm install`.  
+Now run the app with: `meteor npm run start`.  
 Sign up/Log in to access all features.
 <br/>
 <br/>
 <br/>
 # Developer Guide
 Follow the installation guide, as shown above.  
-To modify the fields & features of recipes and vendors, modify the app/imports/api subdirectories.  
-To change the permissions accessing recipes and vendors for each account, modify the app/imports/startup/server subdirectories.  
-To enhance Recipes themselves, modify the app/imports/ui/components/Recipe.jsx file. Check out https://react.semantic-ui.com for additional features. <br/>
-To test default accounts and others items in Collections, modify the app/config/settings.development.json file. 
+To modify the fields & features of recipes and vendors, modify the `app/imports/api subdirectories`.  
+To change the permissions accessing recipes and vendors for each account, modify the `app/imports/startup/server` subdirectories.  
+To enhance Recipes themselves, modify the `app/imports/ui/components/Recipe.jsx file`. Check out https://react.semantic-ui.com for additional features. <br/>
+To test default accounts and others items in Collections, modify the `app/config/settings.development.json` file. 
 
 
 ### Our Team
@@ -82,7 +82,7 @@ To test default accounts and others items in Collections, modify the app/config/
 <img src="https://avatars0.githubusercontent.com/u/19947797?s=460&v=4"/> 
       </td>
     <td>
-      <strong> Anthony Gasbarro </strong>, a graduate EE student in the computer track and a former Nuclear Reactor Operator for the Navy.
+      <strong>Anthony Gasbarro</strong>, a graduate EE student in the computer track and a former Nuclear Reactor Operator for the Navy.
     </td>
     </tr>
     <tr>
