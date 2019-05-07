@@ -15,7 +15,7 @@ Make-A-Meal is an application that students can use to create an account for the
 
 [Landing Page](https://makeameal2.meteorapp.com/#/) <br/>
 Our home page.
-<img src="/images/Landingpagev2.png"> 
+<img src="/images/Landingpagev3.png"> 
 <br/>
 <br/>
 <br/>
@@ -33,13 +33,13 @@ Our page that shows a list of recipes the user has inputted, or their favorites/
 <br/>
 [Recipes Page](http://makeameal2.meteorapp.com/#/searchR) <br/>
 This shows all the recipes in the collection.
-<img src="/images/recipesv2.png"> <br/>
+<img src="/images/recipesv3.png"> <br/>
 <br/>
 <br/>
 <br/>
 [Vendors Page](http://makeameal2.meteorapp.com/#/searchV) <br/>
 Showcases all nearby vendors in a 1-mile radius.
-<img src="/images/vendorsv2.png"> 
+<img src="/images/vendorsv3.png"> 
 <br/>
 <br/>
 <br/>
