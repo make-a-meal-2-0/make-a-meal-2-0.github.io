@@ -1,6 +1,6 @@
 # Overview
 [Organization Page Repo](https://github.com/make-a-meal-2-0) <br/>
-[Deployment](http://makeameal2.meteorapp.com/#/) <br/>
+[Deployment](http://make-a-meal2.meteorapp.com/#/) <br/>
 [M2 Project Board](https://github.com/make-a-meal-2-0/mam2/projects/1) <br/>
 [M3 Project Board](https://github.com/make-a-meal-2-0/mam2/projects/4) <br/>
 
