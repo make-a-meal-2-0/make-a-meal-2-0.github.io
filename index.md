@@ -13,7 +13,7 @@ Make-A-Meal is an application that students can use to create an account for the
   
 # User Guide
 
-[Landing Page](https://makeameal2.meteorapp.com/#/) <br/>
+[Landing Page](http://make-a-meal2.meteorapp.com/) <br/>
 Our home page.   
 <img src="/images/landingpagev3.png"> 
 <br/>
@@ -31,7 +31,7 @@ Our page that shows a list of recipes the user has inputted, or their favorites/
 <br/>
 <br/>
 <br/>
-[Recipes Page](http://makeameal2.meteorapp.com/#/searchR) <br/>
+[Recipes Page](http://make-a-meal2.meteorapp.com/#/listrecipes) <br/>
 This shows all the recipes in the collection, with filtering based on diet choices available.  
 <img src="/images/recipesv3.png"> <br/>
 <br/>
